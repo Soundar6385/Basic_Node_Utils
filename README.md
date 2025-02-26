@@ -134,5 +134,3 @@ This project is licensed under the [ISC License](LICENSE).
    ```
 
 ---
-
-Once it's live on GitHub, you can proceed with **`npm publish`**. Let me know if you need help with versioning or adding tests before the final publish! 🚀📦
