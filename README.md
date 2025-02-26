@@ -1,10 +1,3 @@
-Here's a complete **`README.md`** for your **`basic_node_utils`** package, ready for GitHub:
-
----
-
-### 📄 **README.md**
-
-```md
 # Basic Node Utils
 
 A collection of **basic utility functions** for Node.js to make development easier and more efficient.
@@ -109,7 +102,7 @@ If you encounter any bugs or issues, please [open an issue](https://github.com/S
 
 ## 📄 License
 
-This project is licensed under the [ISC License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ```
 
