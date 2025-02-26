@@ -1,5 +1,5 @@
 {
-  "name": "@soundar6385/basic_node_utils",
+  "name": "basic_node_utils",
   "version": "1.0.2",
   "description": "A collection of basic Node.js utility functions.",
   "main": "src/index.js",
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/Soundar6385/Basic_Node_Utils#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org"
   }
 }
