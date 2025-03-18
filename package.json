@@ -1,6 +1,6 @@
 {
   "name": "basic_node_utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A collection of basic Node.js utility functions.",
   "main": "src/index.js",
   "scripts": {
