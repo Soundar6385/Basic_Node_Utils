@@ -2,7 +2,7 @@
 
 A collection of **basic utility functions** for Node.js to make development easier and more efficient.
 
-[![License](https://img.shields.io/badge/license-ISC-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![NPM Version](https://img.shields.io/npm/v/basic_node_utils.svg)](https://www.npmjs.com/package/basic_node_utils)
 [![GitHub Issues](https://img.shields.io/github/issues/Soundar6385/Basic_Node_Utils.svg)](https://github.com/Soundar6385/Basic_Node_Utils/issues)
 
